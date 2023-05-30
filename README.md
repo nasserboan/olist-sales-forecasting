@@ -1,6 +1,5 @@
-![Alt text](image link)
+# Olist Sales Forecasting (WIP)
 
-# PROJECT TITLE
 
 Small description of the project: what is the problem? How did you solve it? who would be interested in this project.
 
@@ -42,15 +41,22 @@ function App() {
 * Lesson D
 
 ## References
-```
-@misc{li2022featurebased,
-      title={Feature-based intermittent demand forecast combinations: bias, accuracy and inventory implications}, 
-      author={Li Li and Yanfei Kang and Fotios Petropoulos and Feng Li},
-      year={2022},
-      eprint={2204.08283},
-      archivePrefix={arXiv},
-      primaryClass={stat.AP}
-}
-```
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 
+```
+ @misc{olist_andré sionek_2018,
+	title={Brazilian E-Commerce Public Dataset by Olist},
+	url={https://www.kaggle.com/dsv/195341},
+	DOI={10.34740/KAGGLE/DSV/195341},
+	publisher={Kaggle},
+	author={Olist and André Sionek},
+	year={2018}
+}```
+
+@misc{rožanec2021reframing,
+      title={Reframing demand forecasting: a two-fold approach for lumpy and intermittent demand}, 
+      author={Jože M. Rožanec and Dunja Mladenić},
+      year={2021},
+      eprint={2103.13812},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
