@@ -50,7 +50,7 @@ function App() {
 	publisher={Kaggle},
 	author={Olist and André Sionek},
 	year={2018}
-}```
+}
 
 @misc{rožanec2021reframing,
       title={Reframing demand forecasting: a two-fold approach for lumpy and intermittent demand}, 
@@ -60,3 +60,4 @@ function App() {
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
