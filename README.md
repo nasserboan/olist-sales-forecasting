@@ -1,9 +1,16 @@
 # Olist Sales Forecasting (WIP)
 
-
 Small description of the project: what is the problem? How did you solve it? who would be interested in this project.
 
 ## Project DAG
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
 < INSERT PROJECT DAG HERE>
 
@@ -11,7 +18,18 @@ Small description of the project: what is the problem? How did you solve it? who
 
 insert a gif or imgs with the project results
 
-## Stack utilizada
+## Premises
+
+For this project:
+
+* I'll only consider orders with the 'delivered' status;
+* The sale_date is considered to be equal to the order approval date;
+
+## Tech Stack
+
+* [DARTS](https://unit8co.github.io/darts/)
+* [Pandas](https://pandas.pydata.org/docs/index.html)
+
 
 List the stack used divided by module
 
@@ -33,10 +51,7 @@ function App() {
 
 ## Lessons
 
-* Lesson A
-  1. sub topic 1
-  2. sub topic 1
-* Lesson B
+* DARTS and PyTorch work better with python 3.10
 * Lesson C
 * Lesson D
 
