@@ -5,9 +5,9 @@ Small description of the project: what is the problem? How did you solve it? who
 ## Project DAG
 
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
+  graph LR;
+      dataset_creation-->find_most_sold;
+      find_most_sold-->classify_demand;
       B-->D;
       C-->D;
 ```
