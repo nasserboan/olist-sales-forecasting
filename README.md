@@ -52,7 +52,15 @@ function App() {
 ## Lessons
 
 * DARTS and PyTorch work better with python 3.10
-* Lesson C
+* According to Syntetos, Boylan, and Croston demand can be categorized into:
+
+| category    | ADI     | CV2     |
+| ----------- | ------- | ------- |
+| smooth      | < 1.32  | < 0.49  |
+| erratic     | < 1.32  | \> 0.49 |
+| intermitent | \> 1.32 | < 0.49  |
+| lumpy       | \> 1.32 | \> 0.49 |
+
 * Lesson D
 
 ## References
@@ -75,4 +83,18 @@ function App() {
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+
+@article{article,
+author = {Syntetos, M and Boylan, John and Croston, JD},
+year = {2005},
+month = {05},
+pages = {},
+title = {On the categorization of demand patterns},
+volume = {56},
+journal = {Journal of the Operational Research Society},
+doi = {10.1057/palgrave.jors.2601841}
+}
+
 ```
+
+[Solis, A.O., Nicoletti, L., Mukhopadhyay, S., Agosteo, L., Delfino, A., Sartiano, M. .Intermittent Demand Forecasting and Stock Control: An Empirical Study. Proceedings of the International Conference on Modeling and Applied Simulation 2012, 367-374](http://www.msc-les.org/proceedings/mas/2012/MAS2012_367.pdf)
