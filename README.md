@@ -85,14 +85,14 @@ function App() {
 }
 
 @article{article,
-author = {Syntetos, M and Boylan, John and Croston, JD},
-year = {2005},
-month = {05},
-pages = {},
-title = {On the categorization of demand patterns},
-volume = {56},
-journal = {Journal of the Operational Research Society},
-doi = {10.1057/palgrave.jors.2601841}
+      author = {Syntetos, M and Boylan, John and Croston, JD},
+      year = {2005},
+      month = {05},
+      pages = {},
+      title = {On the categorization of demand patterns},
+      volume = {56},
+      journal = {Journal of the Operational Research Society},
+      doi = {10.1057/palgrave.jors.2601841}
 }
 
 ```
