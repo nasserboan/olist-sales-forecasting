@@ -2,6 +2,14 @@
 
 Small description of the project: what is the problem? How did you solve it? who would be interested in this project.
 
+## To Do
+
+- [ ] Review the ADI and CV2 formulas
+- [ ] Create the classify_demand function
+- [ ] Perform feature engineering
+- [ ] Train and evaluate 2 models
+
+
 ## Project DAG
 
 ```mermaid
@@ -24,6 +32,7 @@ For this project:
 
 * I'll only consider orders with the 'delivered' status;
 * The sale_date is considered to be equal to the order approval date;
+* I'll not consider the different sellers.
 
 ## Tech Stack
 
