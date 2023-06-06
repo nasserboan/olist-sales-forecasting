@@ -1,0 +1,6 @@
+name: pipeline_data_component
+conda_ev: data_component.yml
+
+entry_points:
+  main:
+    command: python data.py

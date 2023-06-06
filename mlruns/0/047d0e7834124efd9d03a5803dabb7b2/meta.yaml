@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/047d0e7834124efd9d03a5803dabb7b2/artifacts
+end_time: 1686085908772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 047d0e7834124efd9d03a5803dabb7b2
+run_name: pipeline-teste
+run_uuid: 047d0e7834124efd9d03a5803dabb7b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686085908761
+status: 4
+tags: []
+user_id: autoenc

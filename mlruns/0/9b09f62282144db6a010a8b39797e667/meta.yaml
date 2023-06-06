@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9b09f62282144db6a010a8b39797e667/artifacts
+end_time: 1686088991750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b09f62282144db6a010a8b39797e667
+run_name: somente_date
+run_uuid: 9b09f62282144db6a010a8b39797e667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686088991746
+status: 4
+tags: []
+user_id: autoenc

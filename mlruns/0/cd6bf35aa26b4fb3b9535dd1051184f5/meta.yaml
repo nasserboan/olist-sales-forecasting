@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cd6bf35aa26b4fb3b9535dd1051184f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd6bf35aa26b4fb3b9535dd1051184f5
+run_name: handsome-dove-881
+run_uuid: cd6bf35aa26b4fb3b9535dd1051184f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686085317308
+status: 1
+tags: []
+user_id: autoenc

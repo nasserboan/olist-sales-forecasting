@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85090e5e7e6a4f9e874cacc7b80ca24d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85090e5e7e6a4f9e874cacc7b80ca24d
+run_name: treasured-lynx-24
+run_uuid: 85090e5e7e6a4f9e874cacc7b80ca24d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686085205165
+status: 1
+tags: []
+user_id: autoenc

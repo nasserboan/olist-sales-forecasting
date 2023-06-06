@@ -1,0 +1,7 @@
+name: try
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip:
+    - mlflow==2.2.2

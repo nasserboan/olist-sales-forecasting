@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0faa250efaeb47f996ab3803f4a2ce48/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0faa250efaeb47f996ab3803f4a2ce48
+run_name: defiant-donkey-527
+run_uuid: 0faa250efaeb47f996ab3803f4a2ce48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686085938617
+status: 1
+tags: []
+user_id: autoenc

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c5766bd7267c4448a31ad767b41b9c98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5766bd7267c4448a31ad767b41b9c98
+run_name: mercurial-snail-254
+run_uuid: c5766bd7267c4448a31ad767b41b9c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686087733292
+status: 1
+tags: []
+user_id: autoenc

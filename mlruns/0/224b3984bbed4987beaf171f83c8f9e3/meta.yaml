@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/224b3984bbed4987beaf171f83c8f9e3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 224b3984bbed4987beaf171f83c8f9e3
+run_name: intrigued-roo-767
+run_uuid: 224b3984bbed4987beaf171f83c8f9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686086827190
+status: 1
+tags: []
+user_id: autoenc

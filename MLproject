@@ -1,0 +1,9 @@
+name: mlflow_example
+conda_env: conda.yaml
+
+entry_points:
+  data:
+    command: "python src/data/data.py"
+
+  main:
+    command: "python main.py"

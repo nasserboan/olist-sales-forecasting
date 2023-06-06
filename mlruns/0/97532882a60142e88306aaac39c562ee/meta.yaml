@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/97532882a60142e88306aaac39c562ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97532882a60142e88306aaac39c562ee
+run_name: lyrical-colt-772
+run_uuid: 97532882a60142e88306aaac39c562ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686086322146
+status: 1
+tags: []
+user_id: autoenc

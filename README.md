@@ -10,6 +10,7 @@ Small description of the project: what is the problem? How did you solve it? who
 - [ ] Train and evaluate 2 models
 
 
+
 ## Project DAG
 
 ```mermaid

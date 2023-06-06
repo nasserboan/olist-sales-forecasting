@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc39cc692e114033ac5736d82f627378/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc39cc692e114033ac5736d82f627378
+run_name: gentle-roo-551
+run_uuid: fc39cc692e114033ac5736d82f627378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686086481042
+status: 1
+tags: []
+user_id: autoenc

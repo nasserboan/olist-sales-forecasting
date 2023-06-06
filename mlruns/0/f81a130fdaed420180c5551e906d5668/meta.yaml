@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f81a130fdaed420180c5551e906d5668/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f81a130fdaed420180c5551e906d5668
+run_name: beautiful-grub-382
+run_uuid: f81a130fdaed420180c5551e906d5668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686085908768
+status: 1
+tags: []
+user_id: autoenc
